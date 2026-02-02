@@ -24,6 +24,7 @@ The system runs on autopilot, fully scheduled via **GitHub Actions** CI/CD to ex
 ## 📊 Live Dashboard Results
 *A snapshot of the final Power BI report, showing the daily average temperature and historical data log, connected live to the cloud data warehouse.*
 <img width="792" height="437" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/0873c763-8149-4cc8-afa8-d10bb4e670ba" />
+*Note: This image is updated periodically, but the backend pipeline runs daily at 6:00 AM UTC, continuously building the historical dataset in BigQuery.*
 
 ---
 
