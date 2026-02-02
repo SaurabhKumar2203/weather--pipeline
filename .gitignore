@@ -1,0 +1,9 @@
+# Ignore the secret keys
+service_account.json
+
+# Ignore virtual environment folders
+.venv/
+__pycache__/
+
+# Ignore temporary files
+*.csv
