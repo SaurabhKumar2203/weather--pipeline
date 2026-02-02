@@ -16,14 +16,14 @@ The system runs on autopilot, fully scheduled via **GitHub Actions** CI/CD to ex
 
 ## 🏗️ System Architecture
 *The following diagram illustrates the end-to-end data flow, from raw JSON source to final BI visual.*
+<img width="2816" height="1536" alt="architecture_diagram" src="https://github.com/user-attachments/assets/c83993c1-0f68-4d82-a5dc-556a86c2dcbe" />
 
-<img width="792" height="437" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/0873c763-8149-4cc8-afa8-d10bb4e670ba" />
 
 ---
 
 ## 📊 Live Dashboard Results
 *A snapshot of the final Power BI report, showing the daily average temperature and historical data log, connected live to the cloud data warehouse.*
-<img width="2816" height="1536" alt="architecture_diagram" src="https://github.com/user-attachments/assets/c83993c1-0f68-4d82-a5dc-556a86c2dcbe" />
+<img width="792" height="437" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/0873c763-8149-4cc8-afa8-d10bb4e670ba" />
 
 ---
 
